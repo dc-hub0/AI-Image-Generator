@@ -1,1 +1,3 @@
-<a href="https://pixelverse.lakshb.me/"><img src="./public/images/banner-rounded.png" alt="Banner"/></a>
+AI Image Generator 
+
+Generate Your Own self Described Img
